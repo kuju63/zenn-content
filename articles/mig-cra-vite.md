@@ -3,7 +3,7 @@ title: "Migrate Create-React-App to Vite"
 emoji: "🦔"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["cra", "vite", "react"]
-published: false
+published: true
 ---
 
 ## Motivation
