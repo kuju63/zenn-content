@@ -77,7 +77,7 @@ Add eslint configuration file `.eslintrc.js` in the root directory for improving
 
 `.eslintrc.js` is to add many rules for matching Create-React-App's eslint configuration.
 
-https://github.com/kuju63/crt-vite-shttps://github.com/kuju63/crt-vite-sample/blob/main/vite/babel.config.cjsample/blob/main/vite/.eslintrc.js
+https://github.com/kuju63/crt-vite-sample/blob/main/vite/.eslintrc.js
 
 Add `.eslintignore` file for ignoring build files and node_modules.
 
