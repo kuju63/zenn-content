@@ -48,6 +48,8 @@ https://github.com/kuju63/crt-vite-sample/blob/main/vite/tsconfig.json
 
 https://github.com/kuju63/crt-vite-sample/blob/main/vite/tsconfig.node.json
 
+Next, move `public/index.html` to the root directory and remove `%PUBLIC_URL%`.
+
 Finally, add build script into `package.json`.
 
 ```json
